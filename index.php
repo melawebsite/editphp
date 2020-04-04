@@ -1,5 +1,5 @@
 <?php
 
-echo "ram";
+echo "ram is hindu god";
 
 ?>
